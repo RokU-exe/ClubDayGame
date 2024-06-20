@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
             firstCard.style.backgroundImage = '';
             secondCard.style.backgroundImage = '';
             resetBoard();
-        }, 1500);
+        }, 500);
     }
 
     function resetBoard() {
